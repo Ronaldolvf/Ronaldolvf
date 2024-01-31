@@ -1,6 +1,7 @@
 
 ### Olá 👋
 
-![Static Badge](https://img.shields.io/badge/python-badge-blue)
+![Static Badge](https://img.shields.io/badge/python-blue)
+
 
 
