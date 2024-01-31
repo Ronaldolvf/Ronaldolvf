@@ -1,5 +1,6 @@
 
 ### Olá 👋
 
-**Minha Nota de Código:** SUA_NOTA
+![Static Badge](https://img.shields.io/badge/python-badge-blue)
+
 
